@@ -1,0 +1,5 @@
+numpy==1.21.6
+pandas==1.4.1
+schedule==1.1.0
+scikit_learn==1.2.2
+selenium==4.8.3
