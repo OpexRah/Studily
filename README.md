@@ -8,3 +8,7 @@ Studily uses an AI model which has been trained to recognise whether a given str
 The dataset was scraped using YouTube's API and a list of 3000 educational video titles and 3000 non-educational video titles were gathered. Using Term-Frequency-Inverse-Document-Frequency, vectors were made where the two groups educational and non-educational were placed by the model. This was its learning phase. 
 
 For predicting, the model takes an input and finds a vector value for that input. The closest region(Educational / non-educational) to that vector is the final prediction
+
+## Future scope
+Currently only YouTube is supported. Support for other learning resources will be added in the near future. 
+The model will be upgraded to cover more topics related to education.
