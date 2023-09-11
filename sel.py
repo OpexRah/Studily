@@ -51,7 +51,7 @@ def url_check():
                 wd.get("https://www.youtube.com/")
 
 
-schedule.every(5).seconds.do(url_check)
+schedule.every(2).seconds.do(url_check)
   
 while True:
     schedule.run_pending()
