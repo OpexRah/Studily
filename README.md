@@ -10,3 +10,6 @@ The dataset was scraped using YouTube's API and a list of 3000 educational video
 ## Future scope
 Currently only YouTube is supported. Support for other learning resources will be added in the near future. 
 The model will be upgraded to cover more topics related to education.
+
+## Updates
+Support to classify between multiple categories like Music, Movies, Sports, etc
