@@ -12,4 +12,4 @@ Currently only YouTube is supported. Support for other learning resources will b
 The model will be upgraded to cover more topics related to education.
 
 ## Updates
-Support to classify between multiple categories like Music, Movies, Sports, etc
+Support added to classify between multiple categories like Music, Movies, Sports, etc
